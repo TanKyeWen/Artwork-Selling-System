@@ -1,0 +1,25 @@
+Kenny
+[Painting, Mosaics, Calligraphy, Photography, Lithrographs]
+true
+80,000 - 100,000
+
+Parker
+[Mosaics, Calligraphy, Photography]
+false
+20,000 - 30,000
+
+Bing Chee Ling
+[Drawing, 3D Work]
+false
+10 - 2,000
+
+Co Klin
+[Paint, Draw, Pottery]
+true
+2,000 - 90,000
+
+Ho Lee Sheet
+[Sculpture, Conceptual Art]
+true
+10,000 - 20,000
+
