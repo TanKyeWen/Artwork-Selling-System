@@ -23,9 +23,9 @@ public class UXGalleryInterface
             System.out.print("Enter option: ");
             opt = scan.next().toUpperCase();
             
-            String customerFile = "C:\\Users\\Asus\\Downloads\\Code\\Code\\Customer.txt";
-    		String artistFile = "C:\\Users\\Asus\\Downloads\\Code\\Code\\Artist.txt";
-    		String artworkFile = "C:\\Users\\Asus\\Downloads\\Code\\Code\\Artwork.txt";
+            String customerFile = "./Customer.txt";
+    		String artistFile = "./Artist.txt";
+    		String artworkFile = "./Artwork.txt";
             
             UXGallery gallery = new UXGallery(customerFile, artistFile, artworkFile);
             
