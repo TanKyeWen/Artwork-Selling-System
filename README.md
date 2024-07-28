@@ -12,8 +12,8 @@ Tan Kye Wen <br>
 2. Fork or download the repository
 3. Run the Main.java on a complier
 4. OR by using CLI
-'''
+```
    > cd Artwork-Selling-System <br>
    > javac Main.java <br>
    > java Main.java <br>
-'''
+```
