@@ -1,10 +1,10 @@
 # Object Oriented Programing Assignment
 
 This assignment was done by 3 other teammates and me:
-Liew Chun Hao;
-Lee Zhan Jun;
-Teng Chee Song;
-Tan Kye Wen
+Liew Chun Hao; <br>
+Lee Zhan Jun; <br>
+Teng Chee Song; <br>
+Tan Kye Wen <br>
 
 # Running the Applicaiton
 
